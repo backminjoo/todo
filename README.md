@@ -16,7 +16,7 @@ React.js v18를 사용하여 개발된 **ToDo 리스트 애플리케이션**입�
 ## 📂 프로젝트 빌드 및 실행 방법
 
 ### 1️⃣ 프로젝트 클론 및 이동
-git clone https://github.com/backminjoo/todo.git
+git clone https://github.com/backminjoo/todo.git  
 cd my-todo
 
 ### 2️⃣ 패키지 설치
