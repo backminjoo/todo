@@ -1,7 +1,7 @@
 # 📝 ToDo List Application
 
 ## 🚀 프로젝트 개요
-React.js v18 및 Ant Design v4를 사용하여 개발된 **ToDo 리스트 애플리케이션**입니다.  
+React.js v18를 사용하여 개발된 **ToDo 리스트 애플리케이션**입니다.  
 사용자는 할 일을 **추가, 삭제, 완료 처리**할 수 있으며,  
 **'진행 중'과 '완료' 목록을 탭을 통해 관리**할 수 있습니다.
 
@@ -9,7 +9,6 @@ React.js v18 및 Ant Design v4를 사용하여 개발된 **ToDo 리스트 애플
 ✅ **할 일 추가 / 삭제 / 완료 처리**  
 ✅ **진행 중 & 완료 리스트 탭 분리**  
 ✅ **할 일 수정 기능**  
-✅ **검색 필터 기능** (키워드 포함된 할 일 검색 가능)  
 ✅ **로컬 스토리지 연동** (새로고침해도 데이터 유지)  
 
 ---
@@ -17,6 +16,12 @@ React.js v18 및 Ant Design v4를 사용하여 개발된 **ToDo 리스트 애플
 ## 📂 프로젝트 빌드 및 실행 방법
 
 ### 1️⃣ 프로젝트 클론 및 이동
-```bash
-git clone <your-repository-url>
+git clone https://github.com/backminjoo/todo.git
 cd my-todo
+
+### 2️⃣ 패키지 설치
+npm install
+
+### 3️⃣ 개발 서버 실행
+npm start
+
